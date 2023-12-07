@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "quynhdb",
+    "password": "eO40HNj8hnZSuLEPakIvNtkCuoZC8z9A",
+    "database": "quynhdb",
+    "host": "dpg-clju4pp8mmjc73dckgqg-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "quynhdb",
+    "password": "eO40HNj8hnZSuLEPakIvNtkCuoZC8z9A",
+    "database": "quynhdb",
+    "host": "dpg-clju4pp8mmjc73dckgqg-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "production": {
+    "username": "quynhdb",
+    "password": "eO40HNj8hnZSuLEPakIvNtkCuoZC8z9A",
+    "database": "quynhdb",
+    "host": "dpg-clju4pp8mmjc73dckgqg-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
